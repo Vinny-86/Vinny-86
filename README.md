@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/Vinny-86">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinny-86&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinny-86&layout=compact&langs_count=7&theme=graywhite"/>
+  <img height="180em" weight="auto" src="https://github-readme-stats.vercel.app/api?username=Vinny-86&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="180em" weight="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinny-86&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vinny-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
